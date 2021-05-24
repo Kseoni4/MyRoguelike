@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lanterna-3.2.0-alpha1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Roguera2/lib/lanterna-3.2.0-alpha1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Roguera2/lib/lanterna-3.2.0-alpha1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
